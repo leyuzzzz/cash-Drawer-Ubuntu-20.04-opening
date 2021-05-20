@@ -11,7 +11,7 @@ If that works it is reocmmended to create shorter alias in ~/.bashrc or /etc/bas
 
 modify opentill.sh with your pritner name and make it executable place it in ~/Documents/ or modify patch in myGuiapp.desktop
 
-place icons folder in ~/Documents/ or modify it as above
+place cash1.svg folder in ~/Documents/icons or modify it as above, any svg you want for your app
 
 put myGuiapp.desktop in ~/.local/share/applications
 
