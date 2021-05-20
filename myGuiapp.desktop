@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=pause
+Exec=/home/sf/Documents/opentill.sh
+Icon=/home/sf/Documents/icons/cash1.svg
+Terminal=false
+Type=Application
+StartupNotify=true
